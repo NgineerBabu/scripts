@@ -2,7 +2,7 @@
 
 * Bash
 
-  * [apt.sh](https://raw.githubusercontent.com/NgineerBabu/scripts/master/bash/apt.sh)  - Auto print script: This script is to type each character in screen from the input text file (ASCII format).
+  * [apt.sh](https://raw.githubusercontent.com/NgineerBabu/scripts/master/bash/apt.sh)  - Auto print text: This script print each character on screen of input text file (ASCII format).
   * [bind_mounts.sh](https://raw.githubusercontent.com/NgineerBabu/scripts/master/bash/bind_mounts.sh)  -  Bind mount for chroot environment preperation.
   * [bm.sh](https://raw.githubusercontent.com/NgineerBabu/scripts/master/bash/bm.sh)  -  same as bind_mounts.sh in different way.
   * [changehostname.sh](https://raw.githubusercontent.com/NgineerBabu/scripts/master/bash/changehostname.sh)   -  change hostname also upate host file.
