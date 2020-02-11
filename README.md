@@ -10,3 +10,10 @@
   * [service-status-notify.sh](https://raw.githubusercontent.com/NgineerBabu/scripts/master/bash/service-status-notify.sh)  -  Notify service status script for sysvinit service manager.
 
   * [QnA.tar.gz](https://github.com/NgineerBabu/QnA/raw/master/QnA.tar.gz) - Question and Answer.
+  
+  $  tar xf QnA.tar.gz
+  
+  $  copy question as .qs extention under "question" directory and for "answer" as a .ans extension with same file name 
+  
+  $  ./start.sh
+  
