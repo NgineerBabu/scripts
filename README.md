@@ -8,5 +8,5 @@
   * [changehostname.sh](https://raw.githubusercontent.com/NgineerBabu/scripts/master/bash/changehostname.sh)   -  change hostname also upate host file.
   * [pkg-install.sh](https://raw.githubusercontent.com/NgineerBabu/scripts/master/bash/pkg-install.sh)   -  Interactive YUM or APT-GET package installation.
   * [service-status-notify.sh](https://raw.githubusercontent.com/NgineerBabu/scripts/master/bash/service-status-notify.sh)  -  Notify service status script for sysvinit service manager.
-Question and Answer.
-  * [QnA.tar.gz].(https://github.com/NgineerBabu/QnA/raw/master/QnA.tar.gz)
+
+  * [QnA.tar.gz](https://github.com/NgineerBabu/QnA/raw/master/QnA.tar.gz) - Question and Answer.
